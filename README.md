@@ -1,4 +1,4 @@
 # Prog209First-HW
 first hw to prog 209
 
-I hate github
+I hate github just kidding
